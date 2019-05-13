@@ -6,8 +6,12 @@
 html {
 	font-size: 62.5%;
 	background-color: $color-white;
+	box-sizing: border-box;
 }
 
 body {
 	// padding: .5rem;
+	max-width: 110rem;
+	margin: 0 auto;
+	// border: 1px dashed orangered;
 }
